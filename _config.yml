@@ -1,0 +1,14 @@
+# Site settings
+title: McEntee
+email: jr@mcentee.com
+description: > # this means to ignore newlines until "baseurl:"
+  JR is a developer. He writes about javascript.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://mcentee.com" # the base hostname & protocol for your site
+twitter_username: jrmce
+github_username:  jrmce
+
+# Build settings
+markdown: kramdown
+sass:
+  style: compressed

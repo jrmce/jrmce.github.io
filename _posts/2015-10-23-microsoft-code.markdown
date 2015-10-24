@@ -5,9 +5,9 @@ date:   2015-10-23 09:00:00
 ---
 I started using [Visual Studio Code](https://code.visualstudio.com/) a couple days ago, and I have to say, I actually love it.
 
-In the past I've used Sublime Text, Atom, WebStorm, and Vim. While they all are very good editors, I think Microsoft has done an excellent job at providing something that has very nice default features built it, but still allows for a good amount of customization.
+In the past I've used Sublime Text, Atom, WebStorm, and Vim. They're all great editors with their own shortcomings, but I think Microsoft has done an excellent job at providing something that has very nice default features built it, but still allows for a good amount of customization.
 
-Iit has built in syntax support for just about everything a web developer would need (javascript, scss, handlebars, html, json, markdown, etc.). It also supports eslint and jshint out of the box, you just need to be enabled via a settings.json file for a project (you can also disable the default javascript checker, which I found helpful).
+Code has built in syntax support for just about everything a web developer would need (javascript, scss, handlebars, html, json, markdown, etc.). It also supports eslint and jshint out of the box, you just need to be enabled via a settings.json file for a project (you can also disable the default javascript checker, which I found helpful).
 
 The snippet support is also very good, and I think much easier to use than anything else I've seen. The format is just straight json, and there's a snippet file per language.
 
